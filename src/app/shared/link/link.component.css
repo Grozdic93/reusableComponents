@@ -1,0 +1,9 @@
+.myLink{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem;
+    background-color: rgb(200, 197, 197);
+    border-radius: 5px;
+    cursor: pointer;
+}
